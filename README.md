@@ -1,4 +1,4 @@
-# MealAnalyzer
+# Meal Analyzer
  
 An user interface that allows user to load, add, filter, select, and analyze their diets.
 
