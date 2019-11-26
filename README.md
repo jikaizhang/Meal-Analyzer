@@ -9,7 +9,7 @@ https://o7planning.org/en/10619/install-efxclipse-into-eclipse
 
 ### The User Interface:
 
-<p align="center">
+<p align="left">
   <img width="460" height="300" src="https://github.com/jikaizhang/Meal-Analyzer/blob/master/Meal%20Analyzer.JPG">
 </p>
 
