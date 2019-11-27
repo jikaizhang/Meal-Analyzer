@@ -1,15 +1,10 @@
 /**
  * Filename: RootRight.java
  * 
- * Project: Team Project Final Submission
+ * Project: Meal-Analyzer
  * 
- * Authors: Shifan Zhou (szhou235@wisc.edu), Lixing Cheng (lcheng56@wisc.edu) Kaidong Lin
- * (klin54@wisc.edu), Yiting Wang (wang2245@wisc.edu), Jikai Zhang (jzhang726@wisc.edu)
- * 
- * Semester: Fall 2018 Course: CS400
- * 
- * Due Date: due 12/12/2018
- * 
+ * Authors: Shifan Zhou, Lixing Cheng, Kaidong Lin, Yiting Wang, Jikai Zhang
+ *
  * Version: 1.0
  * 
  * Credits: none
