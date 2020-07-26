@@ -22,7 +22,7 @@ public class NutrientInfo {
 			Label caloriesVal = new Label("0");
 			Button addToMeal = new Button("Add to Meal");
 			// Not textField, what?
-			hbox1.getChildren().addAll(calories,caloriesVal);
+			hbox1.getChildren().addAll(calories, caloriesVal);
 			Label fat = new Label("Fat:\t\t\t\t");
 			Label fatVal = new Label("0");
 			//
@@ -39,7 +39,7 @@ public class NutrientInfo {
 			Label proteinVal = new Label("0");
 			//
 			hbox5.getChildren().addAll(protein, proteinVal);
-			
+
 			vbox1.getChildren().addAll(foodName, hbox1, hbox2, hbox3, hbox4, hbox5);
 			vbox2.getChildren().addAll(nutrientInfo, vbox1, addToMeal);
 		} catch (Exception e) {
